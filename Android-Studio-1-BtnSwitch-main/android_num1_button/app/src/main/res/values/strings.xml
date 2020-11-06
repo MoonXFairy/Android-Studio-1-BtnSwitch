@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_num1_button</string>
+    <string name="Title">元件練習</string>
+    <string name="text_account">Account</string>
+    <string name="text_password">Password</string>
+    <string name="btn_signIn">Login</string>
+    <string name="btn_signUp">註冊</string>
+</resources>
